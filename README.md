@@ -1,3 +1,4 @@
 # project-template
 
-[ProjectName Pitch Deck](google.com)
+## Project Pitch Deck
+[ProjectName Pitch Deck](https://github.com/0xBcamp/project-template)
