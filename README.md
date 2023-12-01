@@ -1,10 +1,10 @@
 # project-template
 
-#Challenge
+# Challenge
 
-#Solution
+# Solution
 
-#Why it Matters
+# Why it Matters
 
 ## Project Pitch Deck
 [ProjectName Pitch Deck](https://github.com/0xBcamp/project-template)
